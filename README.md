@@ -13,6 +13,6 @@ Make sure you have [cog](https://github.com/replicate/cog) installed.
 
 To run a prediction:
 
-    cog predict -i prompt="Style of snomexut, a cat-like Tuxemon creature walks in alien-world grass, and observes its surroundings" -i extra_lora="a-r-r-o-w/HunyuanVideo-tuxemons"
+    cog predict -i prompt="Style of snomexut, A vibrant yellow Tuxemon, wielding a fiery blue staff, joyfully manipulates swirling flames around its cheerful form." -i extra_lora="a-r-r-o-w/HunyuanVideo-tuxemons"
 
 ![Output](output.gif)
